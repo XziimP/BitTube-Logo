@@ -1,4 +1,4 @@
-### Please use Download from versions section above this will give better quality. 
+### Please use Download zip from Releases section above this will give better quality. 
 
 
 # BitTube-Logo
